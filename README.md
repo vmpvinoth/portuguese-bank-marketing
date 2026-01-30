@@ -30,6 +30,7 @@ Business Intelligence
 ✅ Campaign optimization recommendations
 ✅ Cost-benefit analysis and ROI projections
 
+
 📁 Repository Structure
 portuguese-bank-marketing/
 │
@@ -65,6 +66,8 @@ portuguese-bank-marketing/
 ├── requirements.txt                  # Python dependencies
 ├── README.md                         # This file
 └── LICENSE                           # MIT License
+
+
 
 🚀 Quick Start
 1. Clone the Repository
